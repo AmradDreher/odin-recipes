@@ -1,0 +1,15 @@
+body {
+    background-color: #222;
+    color: azure;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul {
+    list-style: none;
+}
+
+li a {
+    color: azure;
+    text-decoration: none;
+}
